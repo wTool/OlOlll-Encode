@@ -1,2 +1,5 @@
 # OlOlll-Encode
-一款小型js混淆
+```javascript
+var Encrypt = encode(Javascript Code);
+var Decrypt = decode(Encode JavaScript Code);
+```
